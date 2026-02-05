@@ -1,7 +1,6 @@
-### ⚙️ Backend Development
-Building scalable and secure backends for AI applications.
+### 🌐 Web & Backend Foundations
+Understanding how AI systems actually work in production.
 
-- FastAPI fundamentals  
-- API design  
-- Authentication & Authorization  
-- Role-Based Access Control (RBAC)
+- Client–Server Architecture  
+- HTTP, APIs, Requests & Responses  
+- REST principles  
