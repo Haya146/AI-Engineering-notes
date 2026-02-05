@@ -23,11 +23,8 @@ All topics are explained with **practical examples** inspired by real projects.
 
 ## 📚 Contents
 
-### 🌐 Web & Backend Foundations
-Understanding how AI systems actually work in production.
-
-- Client–Server Architecture  
-- HTTP, APIs, Requests & Responses  
-- REST principles  
-
-📂 [web-basics](web-basics/) — Client-server architecture, HTTP, APIs, and request lifecycle
+📂 [web-basics](web-basics/) — Client-server architecture, HTTP, APIs, and request lifecycle  
+📂 [backend](backend/) — FastAPI fundamentals, API design, authentication, and RBAC  
+📂 [databases](databases/) — Data storage concepts using MongoDB  
+📂 [rag](rag/) — Embeddings, vector databases, and Retrieval-Augmented Generation  
+📂 [agents](agents/) — AI agents design and multi-step workflows  
